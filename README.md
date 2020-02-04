@@ -10,5 +10,5 @@ Install dependencies by running the following in the root of the project:
  - `npm i`
  
 ## NPM Commands
-To run locally, run npm start and head to localhost:3000
-To create the build: npm run build
+To run locally run - `npm start` and head to localhost:3000
+To create the build: - `npm run build`
